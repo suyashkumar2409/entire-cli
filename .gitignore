@@ -30,7 +30,7 @@ go.work.sum
 .DS_Store
 
 # Editor/IDE
-# .idea/
+ .idea/
 # .vscode/
 
 # Binary output (only in root)
