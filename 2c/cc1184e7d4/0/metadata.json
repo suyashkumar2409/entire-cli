@@ -1,0 +1,31 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "2ccc1184e7d4",
+  "session_id": "227f4029-f5c6-4dbc-a70b-3b273d7df235",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-12T04:52:08.683972Z",
+  "branch": "suyash/fix_third_party_overwrite",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "cmd/entire/cli/strategy/hooks_test.go"
+  ],
+  "agent": "Claude Code",
+  "transcript_identifier_at_start": "892e870d-0e28-4c0a-ad5f-93ae7b82900a",
+  "token_usage": {
+    "input_tokens": 6930,
+    "cache_creation_tokens": 50234,
+    "cache_read_tokens": 644260,
+    "output_tokens": 901,
+    "api_call_count": 13
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-12T04:52:08.66355Z",
+    "agent_lines": 130,
+    "human_added": 110,
+    "human_modified": 2,
+    "human_removed": 0,
+    "total_committed": 242,
+    "agent_percentage": 53.71900826446281
+  },
+  "transcript_path": ".claude/projects/-Users-suyashkumar-cli/227f4029-f5c6-4dbc-a70b-3b273d7df235.jsonl"
+}
