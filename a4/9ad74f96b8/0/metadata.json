@@ -1,0 +1,31 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "a49ad74f96b8",
+  "session_id": "1efe396a-fe7c-42ab-b835-a4ad514b68b9",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-11T12:37:11.967717Z",
+  "branch": "luffysk/test",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "test.txt"
+  ],
+  "agent": "Claude Code",
+  "transcript_identifier_at_start": "7baefa3b-805a-4a68-a5e5-bbd694509ea9",
+  "token_usage": {
+    "input_tokens": 7,
+    "cache_creation_tokens": 28210,
+    "cache_read_tokens": 54991,
+    "output_tokens": 288,
+    "api_call_count": 3
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-11T12:37:11.965518Z",
+    "agent_lines": 1,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 1,
+    "agent_percentage": 100
+  },
+  "transcript_path": ".claude/projects/-Users-suyashkumar-cli/1efe396a-fe7c-42ab-b835-a4ad514b68b9.jsonl"
+}

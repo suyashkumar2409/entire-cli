@@ -1,0 +1,26 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "a49ad74f96b8",
+  "strategy": "manual-commit",
+  "branch": "luffysk/test",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "test.txt"
+  ],
+  "sessions": [
+    {
+      "metadata": "/a4/9ad74f96b8/0/metadata.json",
+      "transcript": "/a4/9ad74f96b8/0/full.jsonl",
+      "context": "/a4/9ad74f96b8/0/context.md",
+      "content_hash": "/a4/9ad74f96b8/0/content_hash.txt",
+      "prompt": "/a4/9ad74f96b8/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 7,
+    "cache_creation_tokens": 28210,
+    "cache_read_tokens": 54991,
+    "output_tokens": 288,
+    "api_call_count": 3
+  }
+}
